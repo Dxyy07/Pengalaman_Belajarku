@@ -1,3 +1,3 @@
 # Latihan Branch
 
-**Github Itu Asyik**
+**Github Itu Menyenangkan**
